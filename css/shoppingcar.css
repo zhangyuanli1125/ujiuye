@@ -1,0 +1,119 @@
+@charset "utf-8";
+article{
+    width: 1140px;
+    margin: 0 auto;
+    border: 1px solid #e7e7e7;
+    margin-top: 20px;
+    padding: 20px 30px;
+}
+section{
+    width: 100%;
+}
+.sec_left{
+    display: flex;
+    height: 30px;
+    line-height: 30px;
+}
+.sec_left h2{
+    font-size: 16px;
+    
+}
+.sec_left button{
+    width: 60px;
+    height: 30px;
+    background: orange;
+    border: 0;
+    line-height: 30px;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    margin-left: 6px;
+}
+.sec_right{
+    display: flex;
+    flex-direction: column;
+    height: 50px;
+    width: 360px;
+    justify-content: space-between;
+}
+.sec_right .liu{
+   width: 360px;
+   display: flex;
+}
+.sec_right .liu div{
+    width: 120px;
+    position: relative;
+    height: 5px;
+    background: #CCCCCA;
+    margin-top: 6px;
+    text-align: center;
+}
+.sec_right .liu div span{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    line-height: 20px;
+    text-align: center;
+    color: white;
+    display: block;
+    position: absolute;
+    left: 50%;
+    top: -9px;
+    margin-left: -10px;
+    background: #ABABAB;
+}
+.sec_right .liu div.active,.sec_right div.active>span{
+    background: #FF4B00;
+}
+
+.sec_right p {
+    width: 120px;
+    display: flex;
+    justify-content: center;
+    color: #ABABAB;
+    font-size: 14px;
+    margin-top: 20px;
+
+}
+.sec_right .liu div.active p{
+    color: #FF4B00;
+}
+table{
+    width: 100%;
+    background: #F8F8F8;
+    padding-left: 10px;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+tr{
+    height: 40px;
+    line-height: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+td{
+    text-align: center;
+}
+td:last-of-type{
+    margin-right: 60px;
+}
+.nei{
+    width: 100%;
+    text-align: center;
+    min-height:150px ;
+}
+.nei p{
+    margin-top: 150px;
+}
+.nei button{
+    width: 86px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    background: orange;
+    color: white;
+    border: 0;
+}
+footer{
+    margin-top: 20px;
+}

@@ -1,0 +1,76 @@
+@charset "utf-8";
+.content1{
+    height: 458px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.content1_box{
+    width: 914px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.content1_box>span:first-of-type{
+    width: 1px;
+    height: 200px;
+    display: block;
+    background: #e7e7e7;
+    margin-left: 70px;
+}
+.content1_left p>span:last-of-type{
+    position: absolute;
+    top: 0;
+    right: -160px;
+    font-size: 12px;
+    color: #999999;
+    width: 150px;
+
+}
+.content1_left input{
+    float: right;
+}
+.content1_left p{
+    height: 40px;
+    line-height: 40px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 16px;
+    position: relative;
+}
+
+.content1_left{
+    width: 310px;
+    font-size: 14px;
+}
+.content1_left input,button{
+    float: right;
+}
+.content1_left p:nth-last-of-type(2) button{
+    width: 268px;
+}
+.content1_left p:last-of-type{
+    float: right;
+    line-height: 20px;
+    height: 20px;
+
+    font-size: 12px;
+}
+.content1_left p:last-of-type a{
+      margin-right: 20px;
+}
+.content1_right{
+    font-size: 14px;
+    line-height: 32px;
+}
+.content1_right p:nth-child(2){
+    width: 176px;
+    height: 66px;
+    display: flex;
+    margin-bottom: 20px;
+    justify-content: space-between;
+    align-items: center;
+}
+.content1_right p.co{
+   color: #777777;
+}

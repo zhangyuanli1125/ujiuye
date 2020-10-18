@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+   <link rel="stylesheet" href="./css/public.css">
+    <link rel="stylesheet" href="./css/rigster.css"> 
+    <script src="./js/template-web.js"></script>
+    <script src="./js/cAjax.js"></script>
+    <script src="./js/public.js"></script>
+   <script src="./js/register.js"></script>
+</head>
+<body>
+  <nav>
+    <div class="nav_box">
+        <h1 class="fl"><a href="http://xue.ujiuye.com/"></a></h1>
+      <ul class="fl" id="nav_left"></ul>
+       <script type="text/html" id="navleft">
+           {{each data item}}
+          <li><a href="{{item.href}}">{{item.title}}</a> </li>
+          {{/each}} 
+        </script> 
+        <ul class="fr right"></ul>
+        <script type="text/html" id="nright">
+           {{each data value}}
+           <li><a href="javascript:;"></a></li>
+           {{/each}}
+      </script>
+      
+    </div>
+</nav>
+    <div class="content1">
+        <div class="content1_box">
+              <div class="content1_left">
+                <form action="http://xue.ujiuye.com/">
+                <p><span>手机：</span><input type="text" placeholder="请输入手机号" name="username"><span></span></p>
+                <p><span>创建密码：</span><input type="password" placeholder="请输入密码" name="userpass"><span></span></p>
+                <p><span>确认密码：</span><input type="password" placeholder="请再次输入密码" name="apass"><span></span></p>
+                <p><span>验证码：</span><input type="text" placeholder="请输入验证码" name="yanzhengma"><img src="./image/onload.png" alt=""><span></span></p>
+                <p><span>短信验证：</span><input type="text" placeholder="请输入验证码" name="duanxin"><a href="javascript:;">免费获取短信</a><span></span></p>
+            <p class="clearfix"><button class="fr">注册</button></p>
+            <p class="clearfix">已有账号，请<a href="" >登录</a></p>
+                </form>
+          
+        </div>
+        <span></span>
+        <div class="content1_right">
+            <p>用户专享服务：</p>
+            <p class="co">极致的视频学习体验</p>
+            <p class="co">丰富的直播课程免费学</p>
+            <p class="co">开课提醒，不错过每一次精彩</p>
+            <p class="co">讲、学、练、考，多种高效学习方式快速提升成绩</p>
+        </div>
+        </div>
+      
+    </div>
+    <footer>
+      <div> <p><a href="http://www.ujiuye.com/aboutus.html">关于我们</a> | <a href="http://www.ujiuye.com/contactus.html">联系我们 </a>|
+        <a href="http://www.ujiuye.com/join.html">加入我们</a> | <a href="http://www.ujiuye.com/honor/">品牌荣誉</a> | <a href="http://www.ujiuye.com/copyright.html">版权声明</a>
+        | <a href="http://www.ujiuye.com/map.html">网站地图</a> | <a href="http://www.ujiuye.com/pay.html">支付方式</a></p>
+        <p><a href="https://beian.miit.gov.cn/#/Integrated/index">京ICP备10218183号-88 </a>京ICP证161188号 <img src="./image/gongbei.png" alt=""><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802020723">京公网安备11010802020723号</a></p>
+        <p>Copyright©1999-2020 北京中公教育科技有限公司 .All Rights Reserved</p></div>
+        <div><img src="./image/sm_83x30.png" alt="">
+         <img src="./image/aqkx_83x30.png" alt=""></div> 
+    </footer>
+     
+</body>
+</html>

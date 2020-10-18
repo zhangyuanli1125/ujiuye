@@ -1,0 +1,72 @@
+@charset "utf-8";
+.content1_left{
+    width: 355px;
+    margin-right: 40px;
+}
+
+.content1_left span:first-of-type{
+    text-align: right;
+    width: 90px;
+    height: 40px;
+    line-height: 40px;
+    float: left;
+    margin-right: 4px;
+
+}.content1_left span:last-of-type{
+    position: absolute; 
+    width: 170px;
+     height: 38px;
+     line-height: 38px;
+    right: -180px;
+    top: 0;
+    font-size: 12px;
+    color: #999999;
+    
+}
+.content1_left p{
+    position: relative;
+}
+.content1_left input{
+    width: 254px;
+}
+.content1_left p button{
+    width: 260px;
+}
+
+.content1_left p:last-of-type{
+    float: right;
+    font-size: 12px;
+    color: #777777;
+    
+}
+.content1_left p:last-of-type a{
+    margin: 0;
+    color: orangered;
+    text-decoration: underline;
+}
+.content1_right p:nth-child(2){
+    margin: 6px 0 0;
+    height: 32px;
+}
+.content1_left p:nth-last-of-type(3){
+    position: relative;
+}
+.content1_left p:nth-last-of-type(3) a{
+    position: absolute;
+    right: -3px;
+    top: 10px;
+}
+.content1_left p:nth-last-of-type(3) a:hover{
+    color: orange;
+}
+.content1_box>span{
+    height: 356px;
+}
+.content1_left p:nth-last-of-type(4){
+    position: relative;
+}
+.content1_left  img{
+    position: absolute;
+    right: 8px;
+    top: 8px;
+}

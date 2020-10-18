@@ -1,0 +1,1149 @@
+{
+   "banner": {
+      
+            "data":[
+               {
+                  "imgsrc":"image/img1.jpg"
+               },{
+                  "imgsrc":"image/img2.jpg"
+               },
+               {
+                  "imgsrc":"image/img3.jpg"
+               }
+               ,
+               {
+                  "imgsrc":"image/img4.jpg"
+               }
+               
+            ]
+       
+   },
+"sideData":{
+      "dataArr":[
+          {
+              "data":[
+                  {
+                     "title" :"互联网营销",
+                     "data1":[
+                         
+                     {"child":"SEO"},
+                     {"child":"SEM"},
+                     {"child":"新媒体"},
+                    { "child":"电商"},
+                    { "child":"建站"}       
+                         
+                     ]
+                     
+                     
+                  }
+              ]
+          },
+          {
+              "data":[
+                  {
+                     "title" :"Web前端",
+                     "data1":[
+                         
+                        {"child":"html"},
+                     {"child":"css"},
+                     {"child":"javascript"},
+                     {"child":"H5"}     
+                         
+                     ]
+                     
+              
+                     
+                  }
+              ]
+          },
+          {
+              "data":[
+                  {
+                     "title" :"Web前端",
+                     "data1":[
+                         
+                      { "child":"html"},
+                     {"child":"css"},
+                     {"child":"javascript"},
+                     {"child":"H5"},
+                     {"child":"前端交互"},
+                     {"child":"移动端开发"},
+                     {"child":"React.js"}     
+                         
+                     ]
+                     
+  
+                  }
+              ]
+          },
+          {
+              "data":[
+                  {
+                     "title" :"Java开发",
+                     "data1":[
+                         
+                           {"child":"基础入门"},
+                     {"child":"算法分析"},
+                    { "child":"微服务框架"},
+                     {"child":"数据库入门到连接池" }  
+                         
+                     ]
+                    
+  
+                  }
+              ]
+          }
+          , {
+              "data":[
+                  {
+                     "title" :"Python开发",
+                     "data1":[
+                         
+                         {  "child":"基础入门"},
+                     {"child":"网络爬虫"},
+                     {"child":"机器学习"},
+                     {"child":"Python全栈开发" }  
+                         
+                     ]
+                    
+  
+                  }
+              ]
+          }, {
+              "data":[
+                  
+                  {
+                     "title" :"全链路UI/UE交互设计",
+                     "data1":[
+                         
+                  { "child":"软件基础"},
+                     {"child":"平面设计"},
+                     {"child":"网页设计"},
+                    { "child":"UI设计" }  
+                         
+                     ]
+                    
+  
+                  }
+              ]
+          },
+          {
+              "data":[
+                  {
+                     "title" :"程序开发",
+                     "data1":[
+                         
+                      {"child":"软件测试"},
+                    { "child":"Linux云计算"},
+                     {"child":"大数据开发"},
+                     {"child":"Unity游戏开发+VR/AR"},
+                    { "child":"PHP" } 
+                         
+                     ]
+                     
+  
+                  }
+              ]
+          },
+          {
+              "data":[
+                  {
+                     "title" :"其他课程发",
+                     "data1":[
+                         
+                     {"child":"office办公软件"},
+                     {"child":"求职面试技巧"},
+                    { "child":"BIM"},
+                     {"child":"三维可视化"} 
+                         
+                     ]
+  
+                  }
+              ]
+          }
+  
+      ]
+  },
+   "videoData":[
+      "http://ykugc.cp31.ott.cibntv.net/697622085F337716DA228220B/03000A01005EE82185200440230E41B8009D27-CA17-416A-BE9C-0E2283C061FA.mp4?ccode=050F&duration=147&expire=18000&psid=5092fdcd4900ec2a6a0ea845e5afad1e45a37&ups_client_netip=71c8f5c2&ups_ts=1597476814&ups_userid=&utid=vX2%2BF2afMBkCAXHI9cIZMcky&vid=XNDcxMzk2OTczMg%3D%3D&vkey=B39d92cfbc67536b3ec9b29562d87e178&eo=0&bc=2&dre=u21&si=42&dst=1",
+      "http://ykugc.cp31.ott.cibntv.net/6572C07466F39717B2D1D2644/03000A01005F1654290210E0230E418C7409AC-F701-46AF-ADC0-0239C49788FD.mp4?ccode=050F&duration=71&expire=18000&psid=a5f2900020317261f319d582e7b96a2945a37&ups_client_netip=71c8f5c2&ups_ts=1597480324&ups_userid=&utid=vX2%2BF2afMBkCAXHI9cIZMcky&vid=XNDc2MDY4MTA3Ng%3D%3D&vkey=B63f72cf699c63a607ffcb315c929a4d1&eo=0&bc=2&dre=u21&si=42&dst=1",
+      "http://ykugc.cp31.ott.cibntv.net/6773C80A48038717467BD6FD3/03000A01005EE012FC9DA136F91138F2472038-605F-4DE8-9B1E-53209F482AE2.mp4?ccode=050F&duration=202&expire=18000&psid=c25cb02585580ba573b2935d33ebc1f845a37&ups_client_netip=71c8f5c2&ups_ts=1597480355&ups_userid=&utid=vX2%2BF2afMBkCAXHI9cIZMcky&vid=XNDcwNjAwNzI1Ng%3D%3D&vkey=Ba939b0e304cf9c2d8953649f8502c0d2&eo=0&bc=2&dre=u21&si=42&dst=1",
+      "http://ykugc.cp31.ott.cibntv.net/6773BF2E7BD3B7188B7DF678C/03000A01005E930D32CABC9362B0E3FE03BD03-A52E-48F7-942A-87828CC50FD3.mp4?ccode=050F&duration=116&expire=18000&psid=966e641e6684650636ceddb6be302b3845a37&ups_client_netip=71c8f5c2&ups_ts=1597480375&ups_userid=&utid=vX2%2BF2afMBkCAXHI9cIZMcky&vid=XNDYyOTMzNTcxNg%3D%3D&vkey=B6273fbfe4511b5393719583f135e5e65&eo=0&bc=2&dre=u21&si=42&dst=1",
+      "http://vali.cp31.ott.cibntv.net/657272144FC4171B158232704/03000A01005E23DF46DE8796892B482638F354-DB63-47CA-88EA-A21098377F0C.mp4?ccode=050F&duration=67&expire=18000&psid=c324d5559e208d94bf8965a2032ba21845a37&ups_client_netip=71c8f5c2&ups_ts=1597480399&ups_userid=&utid=vX2%2BF2afMBkCAXHI9cIZMcky&vid=XNDUxNTE0MTg4MA%3D%3D&vkey=B60cad2dd2af97a809caadd9d2604a83d&eo=0&bc=2&dre=u20&si=44&dst=1",
+      "http://ykugc.cp31.ott.cibntv.net/6773996081E37716DACB35D3C/03000A01005F0D2D8F75C3E0230E41ABDE0742-6ECA-49DD-965B-5B74F774C08C.mp4?ccode=050F&duration=328&expire=18000&psid=769d4da60b1929f4fcfce0ba142680c745a37&ups_client_netip=71c8f5c2&ups_ts=1597656797&ups_userid=&utid=oTzBF6QGrAECAXHI9cIgviXc&vid=XNDc1MDc2MDE0NA%3D%3D&vkey=B294f3947e2cb080fe4fc6c70d29ee964&eo=0&rid=20000000ADC225DB06FEFC58FBFDCAD35C3515E702000000&bc=2&dre=u21&si=42&dst=1"
+      
+   ],
+
+
+   "showimgsrc": [
+      {
+        "imgsrc":"image/onload.png",
+        "num":"30458"
+      },
+      {
+         "imgsrc":"image/onload(1).png",
+         "num":"70990"
+       }, 
+       {
+         "imgsrc":"image/onload(2).png",
+         "num":"90122"
+       },
+        {
+         "imgsrc":"image/onload(3).png",
+         "num":"06966"
+       }, 
+       {
+         "imgsrc":"image/onload(4).png",
+         "num":"33746"
+       }, 
+       {
+         "imgsrc":"image/onload(5).png",
+         "num":"07426"
+       },
+        {
+         "imgsrc":"image/onload(6).png",
+         "num":"67657"
+       },
+       {
+         "imgsrc":"image/onload(7).png",
+         "num":"17581"
+       },
+        {
+         "imgsrc":"image/onload(8).png",
+         "num":"69056"
+       },
+        {
+         "imgsrc":"image/onload(9).png",
+         "num":"24193"
+       }, 
+       {
+         "imgsrc":"image/onload(10).png",
+         "num":"56468"
+       },
+        {
+         "imgsrc":"image/onload(11).png",
+         "num":"05217"
+       },
+        {
+         "imgsrc":"image/onload(12).png",
+         "num":"06980"
+       }, 
+       
+       {
+         "imgsrc":"image/onload(13).png",
+         "num":"32014"
+       },
+        {
+         "imgsrc":"image/onload(14).png",
+         "num":"09358"
+       },
+        {
+         "imgsrc":"image/onload(15).png",
+         "num":"15490"
+       },
+        {
+         "imgsrc":"image/onload(16).png",
+         "num":"68500"
+       }, 
+       {
+         "imgsrc":"image/onload(17).png",
+         "num":"72436"
+       }, 
+       {
+         "imgsrc":"image/onload(18).png",
+         "num":"01562"
+       },
+        {
+         "imgsrc":"image/onload(19).png",
+         "num":"11856"
+       },
+        {
+         "imgsrc":"image/onload(20).png",
+         "num":"82296"
+       }
+     
+   ],
+   "yanzheng":[
+      {
+         "tel":"13335340199",
+         "pass":"A234sss"
+      },
+      {
+         "tel":"17382632342",
+         "pass":"Sabcdef"
+      },
+      {
+         "tel":"13335545444",
+         "pass":"Zqwerty"
+      },
+      {
+         "tel":"12223333344",
+         "pass":"Gasdfgff"
+      },
+      {
+         "tel":"13345647997",
+         "pass":"He3r5rf5"
+      }
+   ],
+   "videodata":{
+     
+            "data":[
+               {   "time":"[09:20]",
+                  "title":"【视频】深度学习的应用概况 "
+               },
+               {   "time":"[20:48]",
+                  "title":"【视频】深度学习、机器学习、人工智能的关系及发展简史"
+               },
+               {   "time":"[07:15]",
+                  "title":"【视频】课程的目标与安排 "
+               },
+               {    "time":"[13:19]",
+                  "title":"【视频】神经网络的基本结构 "
+               },
+               {   "time":"[17:36]",
+                  "title":"【视频】神经网络的训练过程 "
+               },
+               {   "time":"[18:35]",
+                  "title":"【视频】梯度下降算法简介 "
+               }
+
+            ]
+      
+   },
+ "tuwendata":{
+  
+          "data":[
+             {
+                "imgsrc":"./image/F84411452910HLOV.jpg",
+                "title":"【培优】数据分析+人工智能",
+                "price":"￥6999.00",
+                "now":"￥6999.00",
+                "href":"http://xue.ujiuye.com/class-169339/"
+             },
+             {
+               "imgsrc":"./image/F7F984267649NVG0.png",
+               "title":"深度学习2大核心算法详解与实战",
+               "price":"￥299.00",
+               "now":"￥0.00",
+               "href":"http://xue.ujiuye.com/class-164097/"
+            },
+            {
+               "imgsrc":"./image/F6U22988714DUJDB.jpg",
+               "title":"【培优】大型微服务分布式项目实战 搭建优乐选网上商城",
+               "price":"￥5699.00",
+               "now":"￥5699.00",
+               "href":"http://xue.ujiuye.com/class-158654/"
+            },
+            {
+               "imgsrc":"./image/F6T1142358710KY7.jpg",
+               "title":"AI深度学习高校宣讲",
+               "price":"￥0.00",
+               "now":"￥0.00",
+               "href":"http://xue.ujiuye.com/class-158161/"
+            },
+            {
+               "imgsrc":"./image/F6T1800363583JFC.jpg",
+               "title":"【培优】深挖Java高级框架原理 掌握框架搭建流程",
+               "price":"￥4999.00",
+               "now":"￥4999.00",
+               "href":"http://xue.ujiuye.com/class-158161/"
+            },
+            {
+               "imgsrc":"./image/F6M2030356425TOG.jpg",
+               "title":"深度学习入门路线及入门规划-中科院公开课",
+               "price":"￥6999.00",
+               "now":"￥0.00",
+               "href":"http://xue.ujiuye.com/class-158161/"
+            },
+            {
+               "imgsrc":"./image/F7M204460952FMTL.jpg",
+               "title":"【培优】Unity+VR/AR游戏开发 掌握Unity引擎基础原理",
+               "price":"￥3999.00",
+               "now":"￥3999.00",
+               "href":"http://xue.ujiuye.com/class-158161/"
+            }
+            , {
+               "imgsrc":"./image/F6A6440788651L2H.jpg",
+               "title":"【基础】 零基础入门Python办公自动化",
+               "price":"￥9.90",
+               "now":"￥9.90",
+               "href":"http://xue.ujiuye.com/class-158161/"
+            }
+          ]
+    
+ }
+   ,
+   "img": {
+      "data": [
+         "./image/offcn-icon_06.png",
+         "./image/offcn-icon_11.png",
+         "./image/offcn-icon_20.png",
+         "./image/offcn-icon_33.png"
+      ],
+      "data1": [
+         "./image/icon_08.png",
+         "image/icon_12.png",
+         "image/icon_19.png",
+         "image/icon_32.png"
+      ]
+   },
+  "navdata":{
+        
+      "data": [
+         {
+            "title": "首页",
+            "href":"http://xue.ujiuye.com"
+            
+         },
+         {
+            "title": "精品课程",
+            "href":"http://xue.ujiuye.com/list",
+            "child": [
+               {
+                  "title": "免费课程"
+               },
+               {
+                  "title": "精品网课"
+               }
+            ]
+         },
+         {
+            "title": "在线直播",
+            "href":"http://xue.ujiuye.com/zhibo/"
+         },
+         {
+            "title": "IT培训班",
+            "href":"http://xue.ujiuye.com/ke"
+         },
+         {
+            "title": "IT培训机构",
+            "href":"http://www.ujiuye.com/"
+         },
+         {
+            "title": "IT问答库",
+            "href":"http://ask.ujiuye.com/"
+         },
+         {
+            "title": "APP下载",
+            "href":"http://xue.ujiuye.com/zt/ityxapp/",
+            "child": [
+                {
+                    "imgsrc": "image/ujyx_16.jpg"
+                 },
+               {
+                  "title": "扫描下载IT优学App"
+               }
+            ]
+         }
+      ]
+   },
+  "navdata1": {
+      "data": [
+         {
+            "name": "iconfont iconsousuo"
+         },
+         {
+            "name": "iconfont icongouwuche"
+           
+         },
+         {
+            "name": "iconfont iconsaoma",
+            "child":[{
+                "imgsrc":"../image/ujyx_16.jpg",
+                "title":"扫描下载IT优学App"
+            },{
+                "imgsrc":"../image/ujyx_17.jpg",
+                "title":"扫描关注中公优就业"
+            }]
+         },
+         {
+            "title": "登录"
+         },
+         {
+            "title": "注册"
+         }
+           
+      ]
+   },
+     
+   "zhibo": {
+      "dataArr": [
+         {
+            "data": [
+               {
+                  "imgsrc": "./image/F7I526352089OBKF.jpg",
+                  "title": "今日头条投放实操与优化方法",
+                  "timeyear":"2020-8-14",
+                  "timeday":"19:30:00",
+                  "href":"http://xue.ujiuye.com/class-141128/"
+
+               },
+               {
+                  "imgsrc": "./image/F561019341759NPY.jpg",
+                  "title": "基本操作、母版、插入媒体、动画、切换、放映",
+                  "timeyear":"2020-8-15",
+                  "timeday":"15:00:00",
+                  "href":"http://xue.ujiuye.com/class-162793/"
+               },
+               {
+                  "imgsrc": "./image/F3D2002245494JPH.jpg",
+                  "title": "IP基础及分类",
+                  "timeyear":"2020-8-14",
+                  "timeday":"19:30:00",
+                  "href":"http://xue.ujiuye.com/class-114999/"
+               },
+               {
+                  "imgsrc": "./image/F7D161129018FUYN.jpg",
+                  "title": "ppt模拟真题详解",
+                  "timeyear":"2020-8-26",
+                  "timeday":"19:30:00",
+                  "href":"http://xue.ujiuye.com/class-163429/"
+               },
+               {
+                  "imgsrc": "./image/F7I526352089OBKF.jpg",
+                  "title": "电商玩法解析与答疑4",
+                  "timeyear":"2020-8-16",
+                  "timeday":"19:30:00",
+                  "href":"http://xue.ujiuye.com/class-150583/"
+               }
+            ]
+         }
+      ]
+   },
+   "onlineLesson": {
+      "dataArr": [
+         {
+            "data": [
+               {
+                  "imgsrc": "./image/F7N1235351504UMS.jpg",
+                  "title": "【基础】微信视频号运营技巧 短视频赚钱新风口 ",
+                  "price": "1.00",
+                  "time": "1课时",
+                  "herf":"http://xue.ujiuye.com/class-165633/"
+               },
+               {
+                  "imgsrc": "./image/F651460955154B5F.jpg",
+                  "title": "【系统】Web大前端在线就业班  ",
+                  "price": "15960.00",
+                  "time": "285课时",
+                  "herf":"http://xue.ujiuye.com/class-140594/"
+               },
+               {
+                  "imgsrc": "./image/F6516670696290IX.jpg",
+                  "title": "【系统】Python全栈+人工智能在线就业班 ",
+                  "price": "16660.00",
+                  "time": "113课时",
+                  "herf":"http://xue.ujiuye.com/class-150583/"
+               },
+               {
+                  "imgsrc": "./image/F682091147347RZY.jpg",
+                  "title": "【直播】抖音自媒体电商+私域流量变现 ",
+                  "price": "2399.00",
+                  "time": "16课时",
+                  "herf":"http://xue.ujiuye.com/class-131138/"
+               },
+               {
+                  "imgsrc": "./image/F77808376452UR70.jpg",
+                  "title": "【直播+录播】SEO与网站运营实战-网站建设与优化实操演练 ",
+                  "price": "2999.00",
+                  "time": "56课时",
+                  "herf":"http://xue.ujiuye.com/class-167859/"
+               },
+               {
+                  "imgsrc": "./image/F561019341759NPY.jpg",
+                  "title": "【直播+录播】SEM与信息流精准投放-策略班 ",
+                  "price": "3999.00",
+                  "time": "34课时",
+                  "herf":"http://xue.ujiuye.com/class-131138/"
+               },
+               {
+                  "imgsrc": "./image/F5V383539308MC1R.jpg",
+                  "title": "【直播+录播】设计师必修课--平面视觉设计  ",
+                  "price": "2399.00",
+                  "time": "73课时",
+                  "herf":"http://xue.ujiuye.com/class-141128/"
+               },
+               {
+                  "imgsrc": "./image/F6N14087487338VE.jpg",
+                  "title": "【进阶】【直播+录播】电商运营与创业实战特训营-店铺装修-选品-推广-优化 ",
+                  "price": "2999.00",
+                  "time": "35课时",
+                  "herf":"http://xue.ujiuye.com/class-167859/"
+               }
+            ]
+         },
+         {
+            "data": [
+               {
+                  "imgsrc": "./image/F7N1235351504UMS.jpg",
+                  "title": "【基础】微信视频号运营技巧 短视频赚钱新风口 ",
+                  "price": "1.00",
+                  "time": "1课时",
+                  "herf":"http://xue.ujiuye.com/class-141128/"
+               },
+               {
+                  "imgsrc": "./image/F682091147347RZY.jpg",
+                  "title": "【进阶】【直播】抖音自媒体电商+私域流量变现   ",
+                  "price": "2399.00",
+                  "time": "16课时",
+                  "herf":"http://xue.ujiuye.com/class-149285/"
+               },
+               {
+                  "imgsrc": "./image/F77808376452UR70.jpg",
+                  "title": "【直播+录播】SEO与网站运营实战-网站建设与优化实操演练 ",
+                  "price": "2999.00",
+                  "time": "56课时",
+                  "herf":"http://xue.ujiuye.com/class-103250/"
+               },
+               {
+                  "imgsrc": "./image/F561019341759NPY.jpg",
+                  "title": " 【直播+录播】SEM与信息流精准投放-策略班 ",
+                  "price": "3999.00",
+                  "time": "34课时",
+                  "herf":"http://xue.ujiuye.com/class-157192/"
+               },
+               {
+                  "imgsrc": "./image/F6N14087487338VE.jpg",
+                  "title": "【进阶】【直播+录播】电商运营与创业实战特训营-店铺装修-选品-推广-优化  ",
+                  "price": "2399.00",
+                  "time": "16课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               },
+               {
+                  "imgsrc": "./image/F5T1972234229F9Y.jpg",
+                  "title": "【基础】社群运营实战技巧班  ",
+                  "price": "19.90",
+                  "time": "9课时",
+                  "herf":"http://xue.ujiuye.com/class-167372/"
+               },
+               {
+                  "imgsrc": "./image/F6I87435883588OS.jpg",
+                  "title": "【系统】全域电商运营在线就业班  ",
+                  "price": "11760.00",
+                  "time": "107课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               },
+               {
+                  "imgsrc": "./image/F83976795382QFHJ.jpg",
+                  "title": "【系统】互联网营销在线就业班  ",
+                  "price": "14560.00",
+                  "time": "75课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               }
+            ]
+         },
+         {
+            "data": [
+               {
+                  "imgsrc": "./image/F5V383539308MC1R.jpg",
+                  "title": "【直播+录播】设计师必修课--平面视觉设计  ",
+                  "price": "2399.00",
+                  "time": "73课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               },
+               {
+                  "imgsrc": "./image/F681772009702VTE.jpg",
+                  "title": "【系统】全链路UI/UE设计   ",
+                  "price": "17010.00",
+                  "time": "182课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               },
+               {
+                  "imgsrc": "./image/F7U112977279WYNG.jpg",
+                  "title": "【培优】全链路UI设计之电商视觉设计  ",
+                  "price": "4999.00",
+                  "time": "50课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               },
+               {
+                  "imgsrc": "./image/F7S1730225486BHY.jpg",
+                  "title": " 【培优】UI交互设计  ",
+                  "price": "4999.00",
+                  "time": "59课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               },
+               {
+                  "imgsrc": "./image/F7S1511435579ZGR.jpg",
+                  "title": "【培优】名企项目实战进阶 ",
+                  "price": "4999.00",
+                  "time": "81课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               },
+               {
+                  "imgsrc": "./image/F3U946900086SNJP.jpg",
+                  "title": "【培优】全链路UI设计之视觉传达 掌握基础设计软件操作  ",
+                  "price": "499.90",
+                  "time": "68课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               },
+               {
+                  "imgsrc": "./image/F3B1239147327DN0.jpg",
+                  "title": "【基础】商业手绘插画设计 让人物在你笔下活起来  ",
+                  "price": "299.00",
+                  "time": "39课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               },
+               {
+                  "imgsrc": "./image/F5D565452527ZPLD.jpg",
+                  "title": "【培优】全链路UI设计之品牌视觉设计 打造一专多能的设计人才   ",
+                  "price": "1999.00",
+                  "time": "64课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               }
+            ]
+         },
+         {
+            "data": [
+               {
+                  "imgsrc": "./image/F651460955154B5F.jpg",
+                  "title": "【系统】Web大前端在线就业班",
+                  "price": "15960.00",
+                  "time": "285课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               },
+               {
+                  "imgsrc": "./image/F5Q881378921ZTAF.jpg",
+                  "title": "【培优】打造Web前端工程师-JS交互设计 ",
+                  "price": "3199.00",
+                  "time": "182课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               },
+               {
+                  "imgsrc": "./image/F737777444542MUJ.jpg",
+                  "title": "【在线】H5+小程序+APP多位一体 Web前端在线系统班",
+                  "price": "2999.00",
+                  "time": "348课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               },
+               {
+                  "imgsrc": "./image/F3V2096426999TCB.jpg",
+                  "title": " 【进阶】Web小程序开发基础到项目搭建 制作家常菜小程序",
+                  "price": "99.00",
+                  "time": "46课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               },
+               {
+                  "imgsrc": "./image/F1G695156790NZUF.jpg",
+                  "title": "【高级】React16+Redux企业级实战项目 ",
+                  "price": "599.00",
+                  "time": "97课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               },
+               {
+                  "imgsrc": "./image/F3V3658686755UE6.jpg",
+                  "title": "【进阶】Web前端基础+小程序开发 快速制作网站页面 ",
+                  "price": "399.00",
+                  "time": "39课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               },
+               {
+                  "imgsrc": "./image/F7O1020037624GOF.jpg",
+                  "title": "【培优】Vue+React精讲+项目实战 ",
+                  "price": "4999.00",
+                  "time": "154课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               },
+               {
+                  "imgsrc": "./image/F6T571380173XF3X.jpg",
+                  "title": "【培优】打造Web前端工程师-Node开发及商城后台管理项目",
+                  "price": "499.00",
+                  "time": "1课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               }
+            ]
+         },
+         {
+            "data": [
+               {
+                  "imgsrc": "./image/F6516670696290IX.jpg",
+                  "title": "【系统】Python全栈+人工智能在线就业班 ",
+                  "price": "16660.00",
+                  "time": "113课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               },
+               {
+                  "imgsrc": "./image/F5T91763899RHRQR.jpg",
+                  "title": "基于Python数据分析模块的使用来完成电影数据分析项目实战  ",
+                  "price": "59.00",
+                  "time": "10课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               },
+               {
+                  "imgsrc": "./image/F5J588091928ZQP6.jpg",
+                  "title": "【高级】AI深度学习  ",
+                  "price": "3999.00",
+                  "time": "76课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               },
+               {
+                  "imgsrc": "./image/F5Q1545802989GXW.jpg",
+                  "title": " 【培优】JavaWeb开发 从前端到后台及小米商城实战 ",
+                  "price": "2999.00",
+                  "time": "207课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               },
+               {
+                  "imgsrc": "./image/F651190997082LCB.jpg",
+                  "title": "【系统】全栈式Java开发软件工程师 ",
+                  "price": "16660.00",
+                  "time": "500课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               },
+               {
+                  "imgsrc": "./image/F6T1800363583JFC.jpg",
+                  "title": "【培优】深挖Java高级框架原理 掌握框架搭建流程 ",
+                  "price": "4999.00",
+                  "time": "300课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               },
+               {
+                  "imgsrc": "./image/F7M204460952FMTL.jpg",
+                  "title": "【培优】Unity+VR/AR游戏开发 掌握Unity引擎基础原理 ",
+                  "price": "3999.00",
+                  "time": "54课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               },
+               {
+                  "imgsrc": "./image/F6U22988714DUJDB.jpg",
+                  "title": "【培优】大型微服务分布式项目实战 搭建优乐选网上商城  ",
+                  "price": "5699.00",
+                  "time": "300课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               }
+            ]
+         },
+         {
+            "data": [
+               {
+                  "imgsrc": "./image/EBN1706380679URB.jpg",
+                  "title": "【基础】PPT软件的操作  ",
+                  "price": "99.00",
+                  "time": "30课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               },
+               {
+                  "imgsrc": "./image/EBN17200907ZQCXH.jpg",
+                  "title": "【基础】办公必备技能之Excel软件操作  ",
+                  "price": "99.00",
+                  "time": "50课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               },
+               {
+                  "imgsrc": "./image/F6U1605644137MNF.jpg",
+                  "title": "【基础】高效利器—人人都要学的office办公软件 ",
+                  "price": "299.00",
+                  "time": "87课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               },
+               {
+                  "imgsrc": "./image/F6U250881697BZCD.jpg",
+                  "title": " 【基础】Office办公软件“三剑客” 玩转表姐、Word哥、屁屁踢！ ",
+                  "price": "299.00",
+                  "time": "114课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               },
+               {
+                  "imgsrc": "./image/EBN141085373WXZP.jpg",
+                  "title": "【基础】办公必备技能之Word软件操作  ",
+                  "price": "99.00",
+                  "time": "32课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               }
+            ]
+         }
+      ]
+   },
+   "freeData": {
+      "dataArr": [
+         {
+            "data": [
+               {
+                  "imgsrc": "./image/F7F984267649NVG0.png",
+                  "title": "深度学习2大核心算法详解与实战 ",
+                  "price": "0.00",
+                  "time": "4课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               },
+               {
+                  "imgsrc": "./image/F6A2060592024EIL.jpg",
+                  "title": "每天1小时-系列精品直播课  ",
+                  "price": "0.00",
+                  "time": "14课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               },
+               {
+                  "imgsrc": "./image/F5S760080480RAPL.jpg",
+                  "title": "AI深度学习【试听】-中科院公开课  ",
+                  "price": "0.00",
+                  "time": "6课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               },
+               {
+                  "imgsrc": "./image/F76415611000BZKO.jpg",
+                  "title": "【直播】计算机二级-备考解析会 ",
+                  "price": "0.00",
+                  "time": "6课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               }
+            ]
+         },
+         {
+            "data": [
+               {
+                  "imgsrc": "./image/F4N345748433EPWB.jpg",
+                  "title": "【基础】手把手教你开通淘宝店铺  ",
+                  "price": "0.00",
+                  "time": "7课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               },
+               {
+                  "imgsrc": "./image/F4N1298456284UKS.jpg",
+                  "title": "【基础】SEM账户数据精准分析推广优化  ",
+                  "price": "0.00",
+                  "time": "6课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               },
+               {
+                  "imgsrc": "./image/F4G12969250658R4.jpg",
+                  "title": "【基础】5节课带你玩转社群营销  ",
+                  "price": "0.00",
+                  "time": "5课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               },
+               {
+                  "imgsrc": "./image/F3U987691008MR4D.jpg",
+                  "title": "【基础】SEO基础入门-SEO概念与核心优化方式 ",
+                  "price": "0.00",
+                  "time": "6课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               }
+            ]
+         },
+         {
+            "data": [
+               {
+                  "imgsrc": "./image/F4L1971580257HYN.jpg",
+                  "title": "PS基础图层样式养成记  ",
+                  "price": "0.00",
+                  "time": "7课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               },
+               {
+                  "imgsrc": "./image/F7V1480445536D1Q.jpg",
+                  "title": "UI界面网页设计之规范设计  ",
+                  "price": "0.00",
+                  "time": "7课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               },
+               {
+                  "imgsrc": "./image/F4L1369113291CIY.jpg",
+                  "title": "教你精准掌握PS修图与调色  ",
+                  "price": "0.00",
+                  "time": "4课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               },
+               {
+                  "imgsrc": "./image/F791061820500G9R.jpg",
+                  "title": "三天带你高效学插画 ",
+                  "price": "0.00",
+                  "time": "6课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               }
+            ]
+         },
+         {
+            "data": [
+               {
+                  "imgsrc": "./image/F3V12588814260WO.jpg",
+                  "title": "【案例】前端经典案例-用HTML+CSS3制作跳动的心 ",
+                  "price": "0.00",
+                  "time": "7课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               },
+               {
+                  "imgsrc": "./image/F3B322854856WEC6.jpg",
+                  "title": "【基础】Web前端重点详解 彻底搞懂浮动、定位与动画  ",
+                  "price": "0.00",
+                  "time": "7课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               },
+               {
+                  "imgsrc": "./image/F4A1016407139PD9.jpg",
+                  "title": "【基础】Web前端的CSS3背景设置及布局   ",
+                  "price": "0.00",
+                  "time": "4课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               },
+               {
+                  "imgsrc": "./image/F4G1305730321IXR.jpg",
+                  "title": "【科普】Web前端基本概述及入门讲解  ",
+                  "price": "0.00",
+                  "time": "6课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               }
+            ]
+         },
+         {
+            "data": [
+               {
+                  "imgsrc": "./image/F3V1935408180JXT.jpg",
+                  "title": "【基础】Java开发基础之MySQL数据库的基础操作 ",
+                  "price": "0.00",
+                  "time": "9课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               },
+               {
+                  "imgsrc": "./image/F3V432007500W1MT.jpg",
+                  "title": "【基础】Java开发基础之由HTML入门JavaWeb  ",
+                  "price": "0.00",
+                  "time": "8课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               },
+               {
+                  "imgsrc": "./image/F3V1422661772IMR.jpg",
+                  "title": "【基础】Java开发基础之领略数组的魅力    ",
+                  "price": "0.00",
+                  "time": "8课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               },
+               {
+                  "imgsrc": "./image/F4A2027412848C8X.jpg",
+                  "title": "【科普】Python+人工智能 追赶编程开发新趋势 ",
+                  "price": "0.00",
+                  "time": "6课时",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               }
+            ]
+         }
+      ]
+   },
+   "workData": {
+      "dataArr": [
+         {
+            "data": [
+               {
+                  "imgsrc": "./image/EC61192126233R7W.jpg",
+                  "title": "【面授】电商运营学习计划  ",
+                  "price": "16800.00",
+                  "time": "0",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               },
+               {
+                  "imgsrc": "./image/EC51408336442DD4.jpg",
+                  "title": "【面授】Java开发学习计划 ",
+                  "price": "23800.00",
+                  "time": "0",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               },
+               {
+                  "imgsrc": "./image/EC5350925938GLEZ.jpg",
+                  "title": "【面授】Java大数据开发计划 ",
+                  "price": "24800.00",
+                  "time": "0",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               },
+               {
+                  "imgsrc": "./image/F5M531861950OCZV.jpg",
+                  "title": "【面授】三维可视化设计面授课程  ",
+                  "price": "24800.00",
+                  "time": "0",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               }
+            ]
+         },
+         {
+            "data": [
+               {
+                  "imgsrc": "./image/EC61192126233R7W.jpg",
+                  "title": "【面授】电商运营学习计划  ",
+                  "price": "16800.00",
+                  "time": "0",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               }
+            ]
+         },
+         {
+            "data": [
+               {
+                  "imgsrc": "./image/EC51408336442DD4.jpg",
+                  "title": "【面授】Java开发学习计划 ",
+                  "price": "23800.00",
+                  "time": "0",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               }
+            ]
+         },
+         {
+            "data": [
+               {
+                  "imgsrc": "./image/F5M531861950OCZV.jpg",
+                  "title": "【面授】三维可视化设计面授课程  ",
+                  "price": "24800.00",
+                  "time": "0",
+                  "herf":"http://xue.ujiuye.com/class-160446/"
+               }
+            ]
+         }
+      ]
+   },
+   "linkData": {
+      "dataArr": [
+         {
+            "data": [
+               " IT培训",
+               " 软件测试培训",
+               " 网络营销培训",
+               " java培训",
+               " java培训",
+               " web前端培训",
+               " ui交互培训",
+               "python培训",
+               "php培训",
+               "数据分析培训",
+               "微信小程序开发培训",
+               "linux培训",
+               "php培训",
+               "嵌入式培训",
+               "seo培训",
+               "sem培训",
+               "新媒体营销培训",
+               "电商运营培训",
+               "零基础it培训",
+               "unity培训",
+               "vr培训"
+            ]
+               
+         },
+         {
+            "data": [
+               " IT培训",
+               " 潍坊人事考试中心",
+               " 海南事业单位招聘",
+               "济宁公务员",
+               "私立学校 ",
+               "事业单位招聘",
+               "网课代修",
+               "19直播课堂",
+               "财经培训",
+               "上海IT培训",
+               "武汉IT培训",
+               "湖南IT培训",
+               "甘肃事业单位考试",
+               "在职研究生报考条件",
+               "临汾人事考试网",
+               "河北中公考研",
+               "湖南考研网",
+               "贵州教师招聘",
+               "三好网社区",
+               "大学生校内网",
+               "南昌人事考试信息网",
+               "计算机编程入门",
+               "【申请友情链接】"
+            ],
+            "href":[
+
+            ]
+         }
+      ]
+   }
+}
